@@ -1,1 +1,2 @@
-# Heart-Disease-Prediction
+# Heart-Disease-Predict
+This is my project
